@@ -1,5 +1,7 @@
 # django_snacks
 
+https://github.com/HaneenHaashlamoun/django_snacks/pull/1
+
 Feature Tasks and Requirements
 - [x] Create web site in Django with 2 pages
     - [x] home page
